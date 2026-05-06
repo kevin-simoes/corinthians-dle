@@ -19,7 +19,7 @@
   --success: #4ade80;
   --warning: #fbbf24;
   --error: #f87171;
-  --info: #60a5fa;
+  --info: #faa560;
 }
 
 body {
@@ -292,6 +292,7 @@ header h1 {
   height: 120px;
   border-radius: 10px;
   object-fit: cover;
+  pointer-events: none;
 }
 
 .misterio-foto.borrado {
@@ -524,7 +525,7 @@ header h1 {
 
 .tabela-comparacao td.menor,
 .tabela-comparacao td.maior {
-  background: rgba(96, 165, 250, 0.2);
+  background: rgba(250, 175, 96, 0.2);
   color: var(--info);
   font-weight: 600;
 }

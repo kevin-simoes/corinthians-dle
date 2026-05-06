@@ -326,7 +326,8 @@ function App() {
       )}
 
       <footer>
-        <p className="copyright">© 2026 Corinthians DLE - Timão</p>
+      <p className="copyright">Versão 1.1.0</p>
+      <p className="copyright">© 2026 Corinthians DLE - Timão</p>
       </footer>
     </div>
   );

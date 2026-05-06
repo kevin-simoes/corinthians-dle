@@ -79,6 +79,19 @@ const imagensDisponiveis = {
   Ricardinho: "ricardinho.jpg",
   Danilo: "danilo.png",
   "Carlos Tevez": "tevez.jpg",
+  "A Pistache": "pistache.jpg",
+  "Vagner Love": "vagner-love.png",
+  "Luan": "luan.jpg",
+  "Gil": "gil.png",
+  "Fabio Santos": "fabio-santos.png",
+  "Willian": "willian.png",
+  "Malcom": "malcom.png",
+  "Marquinhos": "marquinhos.png",
+  "Murillo": "murillo.png",
+  "Wesley": "wesley.png",
+  "Matias Rojas": "matias-rojas.png",
+  "Renato Augusto": "renato-augusto.png",
+  "Roger Guedes": "roger-guedes.png",
 };
 
 export const jogadores = [
@@ -90,7 +103,11 @@ export const jogadores = [
     nascimento: "1998-07-20",
     ano_chegada: 2022,
     nacionalidade: "Brasileiro",
-    titulos: ["Campeonato Paulista 2023"],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Hugo Souza"],
   },
   {
@@ -100,7 +117,11 @@ export const jogadores = [
     nascimento: "2004-03-04",
     ano_chegada: 2023,
     nacionalidade: "Brasileiro",
-    titulos: [],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Felipe Longo"],
   },
   {
@@ -110,7 +131,11 @@ export const jogadores = [
     nascimento: "2004-06-28",
     ano_chegada: 2022,
     nacionalidade: "Brasileiro",
-    titulos: [],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Kauê"],
   },
   {
@@ -120,7 +145,11 @@ export const jogadores = [
     nascimento: "2002-03-03",
     ano_chegada: 2020,
     nacionalidade: "Brasileiro",
-    titulos: ["Campeonato Paulista 2023"],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Matheus Donelli"],
   },
 
@@ -132,7 +161,11 @@ export const jogadores = [
     nascimento: "2000-03-12",
     ano_chegada: 2024,
     nacionalidade: "Brasileiro",
-    titulos: [],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Matheuzinho"],
   },
   {
@@ -142,7 +175,11 @@ export const jogadores = [
     nascimento: "1999-02-18",
     ano_chegada: 2022,
     nacionalidade: "Brasileiro",
-    titulos: ["Campeonato Paulista 2023"],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Matheus Bidu"],
   },
   {
@@ -150,9 +187,13 @@ export const jogadores = [
     posicao: "Lateral",
     altura: 179,
     nascimento: "1998-03-14",
-    ano_chegada: 2022,
+    ano_chegada: 2024,
     nacionalidade: "Brasileiro",
-    titulos: [],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Hugo"],
   },
   {
@@ -160,9 +201,13 @@ export const jogadores = [
     posicao: "Lateral",
     altura: 185,
     nascimento: "1994-01-15",
-    ano_chegada: 2023,
+    ano_chegada: 2025,
     nacionalidade: "Argentino",
-    titulos: [],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Fabrizio Angileri"],
   },
   {
@@ -172,7 +217,9 @@ export const jogadores = [
     nascimento: "2002-09-11",
     ano_chegada: 2026,
     nacionalidade: "Uruguaio",
-    titulos: [],
+    titulos: [
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Pedro Milans"],
   },
 
@@ -182,9 +229,13 @@ export const jogadores = [
     posicao: "Zagueiro",
     altura: 182,
     nascimento: "1992-07-13",
-    ano_chegada: 2022,
+    ano_chegada: 2024,
     nacionalidade: "Brasileiro",
-    titulos: ["Campeonato Paulista 2023"],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["André Ramalho"],
   },
   {
@@ -194,7 +245,11 @@ export const jogadores = [
     nascimento: "1993-06-21",
     ano_chegada: 2022,
     nacionalidade: "Brasileiro",
-    titulos: ["Campeonato Paulista 2023"],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Gustavo Henrique"],
   },
   {
@@ -204,7 +259,11 @@ export const jogadores = [
     nascimento: "1997-03-11",
     ano_chegada: 2023,
     nacionalidade: "Equatoriano",
-    titulos: [],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Félix Torres"],
   },
   {
@@ -214,7 +273,9 @@ export const jogadores = [
     nascimento: "2004-01-26",
     ano_chegada: 2023,
     nacionalidade: "Brasileiro",
-    titulos: [],
+    titulos: [
+      "Campeonato Paulista 2025",
+    ],
     imagem: imagensDisponiveis["João Pedro"],
   },
   {
@@ -222,9 +283,13 @@ export const jogadores = [
     posicao: "Zagueiro",
     altura: 182,
     nascimento: "1991-03-12",
-    ano_chegada: 2026,
+    ano_chegada: 2025,
     nacionalidade: "Brasileiro",
-    titulos: [],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Gabriel Paulista"],
   },
   {
@@ -234,7 +299,10 @@ export const jogadores = [
     nascimento: "1999-06-25",
     ano_chegada: 2023,
     nacionalidade: "Brasileiro",
-    titulos: ["Campeonato Paulista 2023"],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025"
+    ],
     imagem: imagensDisponiveis["Cacá"],
   },
 
@@ -244,9 +312,13 @@ export const jogadores = [
     posicao: "Volante",
     altura: 184,
     nascimento: "1998-06-18",
-    ano_chegada: 2023,
+    ano_chegada: 2024,
     nacionalidade: "Brasileiro",
-    titulos: [],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Raniele"],
   },
   {
@@ -254,9 +326,13 @@ export const jogadores = [
     posicao: "Volante",
     altura: 187,
     nascimento: "1996-07-18",
-    ano_chegada: 2022,
+    ano_chegada: 2024,
     nacionalidade: "Brasileiro",
-    titulos: ["Campeonato Paulista 2023"],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Charles"],
   },
   {
@@ -266,7 +342,11 @@ export const jogadores = [
     nascimento: "2005-03-30",
     ano_chegada: 2024,
     nacionalidade: "Brasileiro",
-    titulos: [],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Breno Bidon"],
   },
   {
@@ -277,9 +357,11 @@ export const jogadores = [
     ano_chegada: 2017,
     nacionalidade: "Brasileiro",
     titulos: [
-      "Campeonato Paulista 2023",
-      "Copa do Brasil 2022",
-      "Campeonato Brasileiro 2023",
+      "Campeonato Paulista 2018",
+      "Campeonato Paulista 2019",
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Campeonato Brasileiro 2017",
     ],
     imagem: imagensDisponiveis["Maycon"],
   },
@@ -288,9 +370,11 @@ export const jogadores = [
     posicao: "Volante",
     altura: 182,
     nascimento: "1996-02-27",
-    ano_chegada: 2023,
+    ano_chegada: 2024,
     nacionalidade: "Brasileiro",
-    titulos: [],
+    titulos: [
+      "Campeonato Paulista 2025",
+    ],
     imagem: imagensDisponiveis["Alex Santana"],
   },
   {
@@ -298,9 +382,12 @@ export const jogadores = [
     posicao: "Volante",
     altura: 176,
     nascimento: "2000-02-13",
-    ano_chegada: 2023,
+    ano_chegada: 2024,
     nacionalidade: "Venezuelano",
-    titulos: [],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+    ],
     imagem: imagensDisponiveis["José Martínez"],
   },
   {
@@ -310,7 +397,9 @@ export const jogadores = [
     nascimento: "1997-08-26",
     ano_chegada: 2026,
     nacionalidade: "Brasileiro",
-    titulos: [],
+    titulos: [
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Allan"],
   },
   {
@@ -320,7 +409,10 @@ export const jogadores = [
     nascimento: "1998-06-06",
     ano_chegada: 2026,
     nacionalidade: "Brasileiro",
-    titulos: [],
+    titulos: [
+            "Campeonato Brasileiro 2015",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Matheus Pereira"],
   },
   {
@@ -328,9 +420,12 @@ export const jogadores = [
     posicao: "Volante",
     altura: 174,
     nasceu: "2007-03-31",
-    ano_chegada: 2024,
+    ano_chegada: 2025,
     nacionalidade: "Brasileiro",
-    titulos: [],
+    titulos: [
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["André"],
   },
   {
@@ -340,7 +435,10 @@ export const jogadores = [
     nascimento: "2005-02-06",
     ano_chegada: 2024,
     nacionalidade: "Brasileiro",
-    titulos: [],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+    ],
     imagem: imagensDisponiveis["Ryan"],
   },
 
@@ -350,9 +448,13 @@ export const jogadores = [
     posicao: "Meia",
     altura: 180,
     nascimento: "1991-06-14",
-    ano_chegada: 2023,
+    ano_chegada: 2024,
     nacionalidade: "Peruano",
-    titulos: [],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["André Carrillo"],
   },
   {
@@ -362,7 +464,11 @@ export const jogadores = [
     nascimento: "1998-01-29",
     ano_chegada: 2024,
     nacionalidade: "Argentino",
-    titulos: [],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Rodrigo Garro"],
   },
   {
@@ -372,7 +478,10 @@ export const jogadores = [
     nascimento: "2006-02-07",
     ano_chegada: 2024,
     nacionalidade: "Brasileiro",
-    titulos: [],
+    titulos: [
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Dieguinho"],
   },
   {
@@ -382,7 +491,8 @@ export const jogadores = [
     nascimento: "1993-04-06",
     ano_chegada: 2026,
     nacionalidade: "Marroquino",
-    titulos: [],
+    titulos: [
+    ],
     imagem: imagensDisponiveis["Zakaria Labyad"],
   },
   {
@@ -404,7 +514,11 @@ export const jogadores = [
     nascimento: "2001-04-18",
     ano_chegada: 2022,
     nacionalidade: "Brasileiro",
-    titulos: ["Campeonato Paulista 2023"],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Yuri Alberto"],
   },
   {
@@ -414,7 +528,11 @@ export const jogadores = [
     nascimento: "1994-10-13",
     ano_chegada: 2024,
     nacionalidade: "Holandês",
-    titulos: [],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Memphis Depay"],
   },
   {
@@ -422,9 +540,12 @@ export const jogadores = [
     posicao: "Atacante",
     altura: 180,
     nascimento: "1993-10-10",
-    ano_chegada: 2023,
+    ano_chegada: 2025,
     nacionalidade: "Brasileiro",
-    titulos: [],
+    titulos: [
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Vitinho"],
   },
   {
@@ -434,7 +555,11 @@ export const jogadores = [
     nascimento: "2004-06-11",
     ano_chegada: 2024,
     nacionalidade: "Brasileiro",
-    titulos: [],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Copa do Brasil 2025",
+      "Supercopa 2026" 
+    ],
     imagem: imagensDisponiveis["Kayke"],
   },
   {
@@ -444,17 +569,23 @@ export const jogadores = [
     nascimento: "2006-08-22",
     ano_chegada: 2024,
     nacionalidade: "Brasileiro",
-    titulos: [],
+    titulos: [
+      "Copa do Brasil 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Gui Negão"],
   },
   {
     nome: "Pedro Raul",
     posicao: "Atacante",
-    altura: 186,
+    altura: 192,
     nascimento: "1997-06-24",
     ano_chegada: 2024,
     nacionalidade: "Brasileiro",
-    titulos: [],
+    titulos: [
+      "Campeonato Paulista 2025",
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Pedro Raul"],
   },
   {
@@ -464,7 +595,9 @@ export const jogadores = [
     nascimento: "2002-08-26",
     ano_chegada: 2026,
     nacionalidade: "Brasileiro",
-    titulos: [],
+    titulos: [
+      "Supercopa 2026"
+    ],
     imagem: imagensDisponiveis["Kaio César"],
   },
   {
@@ -474,7 +607,14 @@ export const jogadores = [
     nascimento: "1992-07-04",
     ano_chegada: 2022,
     nacionalidade: "Paraguaio",
-    titulos: ["Campeonato Paulista 2023"],
+    titulos: [
+      "Campeonato Paulista 2017",
+      "Campeonato Paulista 2018",
+      "Campeonato Paulista 2025",
+      "Campeonato Brasileiro 2015",
+      "Campeonato Brasileiro 2017",
+      "Copa do Brasil 2025",
+    ],
     imagem: imagensDisponiveis["Ângel Romero"],
   },
 
@@ -563,13 +703,17 @@ export const jogadores = [
     imagem: imagensDisponiveis["Marcelinho Carioca"],
   },
   {
-    nome: "Jô",
+    nome: "Jo",
     posicao: "Atacante",
     altura: 185,
     nascimento: "1987-03-20",
     ano_chegada: 2018,
     nacionalidade: "Brasileiro",
-    titulos: ["Campeonato Brasileiro 2023"],
+    titulos: [
+      "Campeonato Brasileiro 2017",
+      "Campeonato Brasileiro 2005",
+      "Campeonato Paulista 2017",
+    ],
     imagem: imagensDisponiveis["Jô"],
   },
   {
@@ -599,7 +743,9 @@ export const jogadores = [
     nascimento: "1990-07-21",
     ano_chegada: 2015,
     nacionalidade: "Brasileiro",
-    titulos: ["Copa Libertadores 2012"],
+    titulos: [
+
+    ],
     imagem: imagensDisponiveis["Giuliano"],
   },
   {
@@ -848,8 +994,7 @@ export const jogadores = [
     ano_chegada: 2024,
     nacionalidade: "Brasileiro",
     titulos: [
-      "Campeonato Paulista 2024",
-      "Copa do Brasil 2025",
+      "Campeonato Paulista 2025",
     ],
     imagem: imagensDisponiveis["Talles Magno"],
   },
@@ -875,7 +1020,7 @@ export const jogadores = [
     ano_chegada: 2021,
     nacionalidade: "Brasileiro",
     titulos: [],
-    imagem: null,
+    imagem: imagensDisponiveis["Roger Guedes"],
   },
   {
     nome: "Renato Augusto",
@@ -889,7 +1034,7 @@ export const jogadores = [
       "Campeonato Paulista 2013",
       "Campeonato Brasileiro 2015",
     ],
-    imagem: null,
+    imagem: imagensDisponiveis["Renato Augusto"],
   },
   {
     nome: "Matias Rojas",
@@ -899,7 +1044,7 @@ export const jogadores = [
     ano_chegada: 2023,
     nacionalidade: "Paraguaio",
     titulos: [],
-    imagem: null,
+    imagem: imagensDisponiveis["Matias Rojas"],
   },
   {
     nome: "Wesley Gassova",
@@ -909,7 +1054,7 @@ export const jogadores = [
     ano_chegada: 2022,
     nacionalidade: "Brasileiro",
     titulos: [],
-    imagem: null,
+    imagem: imagensDisponiveis["Wesley"],
   },
   {
     nome: "Murillo",
@@ -919,7 +1064,7 @@ export const jogadores = [
     ano_chegada: 2023,
     nacionalidade: "Brasileiro",
     titulos: [],
-    imagem: null,
+    imagem: imagensDisponiveis["Murillo"],
   },
   {
     nome: "Marquinhos",
@@ -931,7 +1076,7 @@ export const jogadores = [
     titulos: [
       "Copa Libertadores 2012",
     ],
-    imagem: null,
+    imagem: imagensDisponiveis["Marquinhos"],
   },
   {
     nome: "Malcom",
@@ -943,7 +1088,7 @@ export const jogadores = [
     titulos: [
       "Campeonato Paulista 2015"
     ],
-    imagem: null,
+    imagem: imagensDisponiveis["Malcom"],
   },
   {
     nome: "Willian",
@@ -954,21 +1099,7 @@ export const jogadores = [
     nacionalidade: "Brasileiro",
     titulos: [
     ],
-    imagem: null,
-  },
-  {
-    nome: "Fagner",
-    posicao: "Lateral",
-    altura: 178,
-    nascimento: "1989-09-14",
-    ano_chegada: 2018,
-    nacionalidade: "Brasileiro",
-    titulos: [
-      "Campeonato Paulista 2018",
-      "Copa do Brasil 2022",
-      "Campeonato Brasileiro 2023",
-    ],
-    imagem: imagensDisponiveis["Fagner"],
+    imagem: imagensDisponiveis["Willian"],
   },
   {
     nome: "Fabio Santos",
@@ -985,7 +1116,7 @@ export const jogadores = [
       "Recopa Sudamericana 2013",
       "Campeonato Paulista 2013",
     ],
-    imagem: null,
+    imagem: imagensDisponiveis["Fabio Santos"],
   },
   {
     nome: "Gil da Goiaba",
@@ -999,21 +1130,104 @@ export const jogadores = [
       "Recopa Sudamericana 2013",
       "Campeonato Brasileiro 2015",
     ],
-    imagem: null,
+    imagem: imagensDisponiveis["Gil"],
   },
   {
-    nome: "Fagner",
-    posicao: "Lateral",
-    altura: 178,
-    nascimento: "1989-09-14",
-    ano_chegada: 2018,
+    nome: "Luan",
+    posicao: "Atacante",
+    altura: 180,
+    nascimento: "1993-03-27",
+    ano_chegada: 2019,
     nacionalidade: "Brasileiro",
     titulos: [
-      "Campeonato Paulista 2018",
-      "Copa do Brasil 2022",
-      "Campeonato Brasileiro 2023",
     ],
-    imagem: imagensDisponiveis["Fagner"],
+    imagem: imagensDisponiveis["Luan"],
+  },
+  {
+    nome: "Vagner Love",
+    posicao: "Atacante",
+    altura: 171,
+    nascimento: "1984-06-11",
+    ano_chegada: 2015,
+    nacionalidade: "Brasileiro",
+    titulos: [
+      "Campeonato Paulista 2019",
+    ],
+    imagem: imagensDisponiveis["Vagner Love"],
+  },
+  // {
+  //   nome: "Douglas",
+  //   posicao: "Atacante",
+  //   altura: 171,
+  //   nascimento: "1984-06-11",
+  //   ano_chegada: 2015,
+  //   nacionalidade: "Brasileiro",
+  //   titulos: [
+  //     "Campeonato Paulista 2019",
+  //   ],
+  //   imagem: imagensDisponiveis["Vagner Love"],
+  // },
+  // {
+  //   nome: "Adson",
+  //   posicao: "Atacante",
+  //   altura: 171,
+  //   nascimento: "1984-06-11",
+  //   ano_chegada: 2015,
+  //   nacionalidade: "Brasileiro",
+  //   titulos: [
+  //     "Campeonato Paulista 2019",
+  //   ],
+  //   imagem: imagensDisponiveis["Vagner Love"],
+  // },
+  // {
+  //   nome: "Ricon",
+  //   posicao: "Atacante",
+  //   altura: 171,
+  //   nascimento: "1984-06-11",
+  //   ano_chegada: 2015,
+  //   nacionalidade: "Brasileiro",
+  //   titulos: [
+  //     "Campeonato Paulista 2019",
+  //   ],
+  //   imagem: imagensDisponiveis["Vagner Love"],
+  // },
+  // {
+  //   nome: "Danilo",
+  //   posicao: "Atacante",
+  //   altura: 171,
+  //   nascimento: "1984-06-11",
+  //   ano_chegada: 2015,
+  //   nacionalidade: "Brasileiro",
+  //   titulos: [
+  //     "Campeonato Paulista 2019",
+  //   ],
+  //   imagem: imagensDisponiveis["Vagner Love"],
+  // },
+  // {
+  //   nome: "Romarinho",
+  //   posicao: "Atacante",
+  //   altura: 171,
+  //   nascimento: "1984-06-11",
+  //   ano_chegada: 2015,
+  //   nacionalidade: "Brasileiro",
+  //   titulos: [
+  //     "Campeonato Paulista 2019",
+  //   ],
+  //   imagem: imagensDisponiveis["Vagner Love"],
+  // },
+  //Quebrados
+
+  {
+    nome: "A. Pistache",
+    posicao: "Meia",
+    altura: 160,
+    nascimento: "2007-02-20",
+    ano_chegada: 2021,
+    nacionalidade: "Brasileiro",
+    titulos: [
+      "THE LAST DANCE"
+    ],
+    imagem: imagensDisponiveis["A Pistache"],
   },
 ];
 
