@@ -271,18 +271,19 @@ function App() {
         {tentativas.length > 0 && (
           <table className="tabela-comparacao">
             <thead>
-              <tr><th>#</th><th>Jogador</th><th>Pos</th><th>Altura</th><th>Idade</th><th>Ano</th><th>Tit</th><th>Nac</th></tr>
+                <tr><th>#</th><th>Jogador</th><th>Pos</th><th>Altura</th><th>Idade</th><th>Ano</th><th>Tit</th><th>Nac</th><th>Situação</th></tr>
             </thead>
             <tbody>
               {[...tentativas].reverse().map((t, i) => (
-                <tr key={tentativas.length - 1 - i} className={`linha-tentativa animate-${Math.min(i + 1, 5)}`}>
+                 <tr key={tentativas.length - 1 - i} className={`linha-tentativa animate-${Math.min(i + 1, 5)}`}>
                   <td className="num-tentativa">{tentativas.length - i}</td>
                   <td className="nome-jogador">
                     <img src={getImagemUrl(t.jogador)} alt={t.jogador.nome} className="avatar-tabela" />
                     {t.jogador.nome}
                   </td>
-                  {t.comparacao.map((c, j) => <td key={j} className={getClasseIcon(c.classe)}>{c.valorChute} {c.icon}</td>)}
-                </tr>
+                   {t.comparacao.map((c, j) => <td key={j} className={getClasseIcon(c.classe)}>{c.valorChute} {c.icon}</td>)}
+                    <td className={`situacao ${t.jogador.ativo ? 'ativo' : 'aposentado'}`}>{t.jogador.ativo ? 'Em atividade' : 'Aposentado'}</td>
+                 </tr>
               ))}
             </tbody>
           </table>

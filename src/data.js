@@ -92,6 +92,14 @@ const imagensDisponiveis = {
   "Matias Rojas": "matias-rojas.png",
   "Renato Augusto": "renato-augusto.png",
   "Roger Guedes": "roger-guedes.png",
+  "Douglas": "douglas.png",
+  "Adson": "adson.png",
+  "Rincon": "rincon.jpeg",
+  "Edilson": "edilson.png",
+  "Romarinho": "romarinho.png",
+  "Jadson": "jadson.png",
+  "Rodriguinho": "rodriguinho.jpg",
+  "Dentinho": "dentinho.webp",
 };
 
 export const jogadores = [
@@ -109,6 +117,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Hugo Souza"],
+    ativo: true,
   },
   {
     nome: "Felipe Longo",
@@ -123,6 +132,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Felipe Longo"],
+    ativo: true,
   },
   {
     nome: "Kauê",
@@ -137,6 +147,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Kauê"],
+    ativo: true,
   },
   {
     nome: "Matheus Donelli",
@@ -151,6 +162,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Matheus Donelli"],
+    ativo: true,
   },
 
   // ===== LATERAIS 2026 =====
@@ -167,6 +179,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Matheuzinho"],
+    ativo: true,
   },
   {
     nome: "Matheus Bidu",
@@ -181,6 +194,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Matheus Bidu"],
+    ativo: true,
   },
   {
     nome: "Hugo",
@@ -195,6 +209,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Hugo"],
+    ativo: true,
   },
   {
     nome: "Fabrizio Angileri",
@@ -209,6 +224,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Fabrizio Angileri"],
+    ativo: true,
   },
   {
     nome: "Pedro Milans",
@@ -221,6 +237,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Pedro Milans"],
+    ativo: true,
   },
 
   // ===== ZAGUEIROS 2026 =====
@@ -237,6 +254,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["André Ramalho"],
+    ativo: true,
   },
   {
     nome: "Gustavo Henrique",
@@ -251,6 +269,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Gustavo Henrique"],
+    ativo: true,
   },
   {
     nome: "Félix Torres",
@@ -265,6 +284,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Félix Torres"],
+    ativo: true,
   },
   {
     nome: "João Pedro",
@@ -277,6 +297,7 @@ export const jogadores = [
       "Campeonato Paulista 2025",
     ],
     imagem: imagensDisponiveis["João Pedro"],
+    ativo: true,
   },
   {
     nome: "Gabriel Paulista",
@@ -291,6 +312,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Gabriel Paulista"],
+    ativo: true,
   },
   {
     nome: "Cacá",
@@ -304,6 +326,7 @@ export const jogadores = [
       "Copa do Brasil 2025"
     ],
     imagem: imagensDisponiveis["Cacá"],
+    ativo: true,
   },
 
   // ===== VOLANTES 2026 =====
@@ -320,6 +343,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Raniele"],
+    ativo: true,
   },
   {
     nome: "Charles",
@@ -334,6 +358,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Charles"],
+    ativo: true,
   },
   {
     nome: "Breno Bidon",
@@ -348,6 +373,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Breno Bidon"],
+    ativo: true,
   },
   {
     nome: "Maycon",
@@ -364,6 +390,7 @@ export const jogadores = [
       "Campeonato Brasileiro 2017",
     ],
     imagem: imagensDisponiveis["Maycon"],
+    ativo: true,
   },
   {
     nome: "Alex Santana",
@@ -376,6 +403,7 @@ export const jogadores = [
       "Campeonato Paulista 2025",
     ],
     imagem: imagensDisponiveis["Alex Santana"],
+    ativo: true,
   },
   {
     nome: "José Martínez",
@@ -389,6 +417,7 @@ export const jogadores = [
       "Copa do Brasil 2025",
     ],
     imagem: imagensDisponiveis["José Martínez"],
+    ativo: true,
   },
   {
     nome: "Allan",
@@ -401,6 +430,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Allan"],
+    ativo: true,
   },
   {
     nome: "Matheus Pereira",
@@ -414,6 +444,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Matheus Pereira"],
+    ativo: true,
   },
   {
     nome: "André",
@@ -427,6 +458,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["André"],
+    ativo: true,
   },
   {
     nome: "Ryan",
@@ -440,6 +472,7 @@ export const jogadores = [
       "Copa do Brasil 2025",
     ],
     imagem: imagensDisponiveis["Ryan"],
+    ativo: true,
   },
 
   // ===== MEIAS 2026 =====
@@ -456,6 +489,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["André Carrillo"],
+    ativo: true,
   },
   {
     nome: "Rodrigo Garro",
@@ -470,6 +504,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Rodrigo Garro"],
+    ativo: true,
   },
   {
     nome: "Dieguinho",
@@ -483,6 +518,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Dieguinho"],
+    ativo: true,
   },
   {
     nome: "Zakaria Labyad",
@@ -494,6 +530,7 @@ export const jogadores = [
     titulos: [
     ],
     imagem: imagensDisponiveis["Zakaria Labyad"],
+    ativo: true,
   },
   {
     nome: "Jesse Lingard",
@@ -504,6 +541,7 @@ export const jogadores = [
     nacionalidade: "Inglês",
     titulos: [],
     imagem: imagensDisponiveis["Jesse Lingard"],
+    ativo: true,
   },
 
   // ===== ATACANTES 2026 =====
@@ -520,6 +558,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Yuri Alberto"],
+    ativo: true,
   },
   {
     nome: "Memphis Depay",
@@ -534,6 +573,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Memphis Depay"],
+    ativo: true,
   },
   {
     nome: "Vitinho",
@@ -547,6 +587,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Vitinho"],
+    ativo: true,
   },
   {
     nome: "Kayke",
@@ -561,6 +602,7 @@ export const jogadores = [
       "Supercopa 2026" 
     ],
     imagem: imagensDisponiveis["Kayke"],
+    ativo: true,
   },
   {
     nome: "Gui Negão",
@@ -574,6 +616,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Gui Negão"],
+    ativo: true,
   },
   {
     nome: "Pedro Raul",
@@ -587,6 +630,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Pedro Raul"],
+    ativo: true,
   },
   {
     nome: "Kaio César",
@@ -599,6 +643,7 @@ export const jogadores = [
       "Supercopa 2026"
     ],
     imagem: imagensDisponiveis["Kaio César"],
+    ativo: true,
   },
   {
     nome: "Angel Romero",
@@ -616,6 +661,7 @@ export const jogadores = [
       "Copa do Brasil 2025",
     ],
     imagem: imagensDisponiveis["Ângel Romero"],
+    ativo: true,
   },
 
   // ===== ÍDOLOS HISTÓRICOS =====
@@ -638,6 +684,7 @@ export const jogadores = [
       "Recopa Sul-Americana 2016",
     ],
     imagem: imagensDisponiveis["Cássio"],
+    ativo: true,
   },
   {
     nome: "Paolo Guerrero",
@@ -654,6 +701,7 @@ export const jogadores = [
       "Recopa Sul-Americana 2016",
     ],
     imagem: imagensDisponiveis["Paolo Guerrero"],
+    ativo: true,
   },
   {
     nome: "Ronny",
@@ -664,6 +712,7 @@ export const jogadores = [
     nacionalidade: "Brasileiro",
     titulos: ["Copa Libertadores 2012", "Campeonato Brasileiro 2015"],
     imagem: null,
+    ativo: false,
   },
   {
     nome: "Sheik",
@@ -679,6 +728,7 @@ export const jogadores = [
       "Campeonato Paulista 2009",
     ],
     imagem: imagensDisponiveis["Sheik"],
+    ativo: false,
   },
   {
     nome: "Marcelinho Carioca",
@@ -701,6 +751,7 @@ export const jogadores = [
       "Campeonato Paulista 2001",
     ],
     imagem: imagensDisponiveis["Marcelinho Carioca"],
+    ativo: false,
   },
   {
     nome: "Jo",
@@ -715,6 +766,7 @@ export const jogadores = [
       "Campeonato Paulista 2017",
     ],
     imagem: imagensDisponiveis["Jô"],
+    ativo: false,
   },
   {
     nome: "Cantillo",
@@ -725,6 +777,7 @@ export const jogadores = [
     nacionalidade: "Colombiano",
     titulos: ["Copa do Brasil 2022", "Campeonato Brasileiro 2023"],
     imagem: imagensDisponiveis["Cantillo"],
+    ativo: true,
   },
   {
     nome: "Du Queiroz",
@@ -735,6 +788,7 @@ export const jogadores = [
     nacionalidade: "Brasileiro",
     titulos: ["Copa do Brasil 2022", "Campeonato Brasileiro 2023"],
     imagem: imagensDisponiveis["Du Queiroz"],
+    ativo: true,
   },
   {
     nome: "Giuliano",
@@ -747,6 +801,7 @@ export const jogadores = [
 
     ],
     imagem: imagensDisponiveis["Giuliano"],
+    ativo: true,
   },
   {
     nome: "Rivellino",
@@ -763,6 +818,7 @@ export const jogadores = [
       "Campeonato Paulista 1974",
     ],
     imagem: imagensDisponiveis["Rivellino"],
+    ativo: false,
   },
   {
     nome: "Sócrates",
@@ -778,6 +834,7 @@ export const jogadores = [
       "Campeonato Paulista 1983",
     ],
     imagem: imagensDisponiveis["Sócrates"],
+    ativo: false,
   },
   {
     nome: "Neto",
@@ -792,6 +849,7 @@ export const jogadores = [
       "Campeonato Paulista 1997",
     ],
     imagem: imagensDisponiveis["Neto"],
+    ativo: false,
   },
   {
     nome: "Wladimir",
@@ -807,6 +865,7 @@ export const jogadores = [
       "Campeonato Paulista 2001",
     ],
     imagem: imagensDisponiveis["Wladimir"],
+    ativo: false,
   },
   {
     nome: "Basílio",
@@ -822,6 +881,7 @@ export const jogadores = [
       "Campeonato Paulista 1983",
     ],
     imagem: imagensDisponiveis["Basílio"],
+    ativo: false,
   },
   {
     nome: "Luizinho",
@@ -836,6 +896,7 @@ export const jogadores = [
       "Campeonato Paulista 1954",
     ],
     imagem: imagensDisponiveis["Luizinho"],
+    ativo: false,
   },
   {
     nome: "Gylmar",
@@ -857,6 +918,7 @@ export const jogadores = [
       "Torneio Rio-São Paulo 1958",
     ],
     imagem: imagensDisponiveis["Gylmar"],
+    ativo: false,
   },
   {
     nome: "Cláudio",
@@ -875,6 +937,7 @@ export const jogadores = [
       "Torneio Rio-São Paulo 1958",
     ],
     imagem: imagensDisponiveis["Cláudio"],
+    ativo: false,
   },
   {
     nome: "Vampeta",
@@ -887,12 +950,12 @@ export const jogadores = [
       "Campeonato Brasileiro 1998",
       "Campeonato Brasileiro 1999",
       "Copa do Brasil 2002",
-      "Copa Sul-Americana 1998",
       "Campeonato Paulista 1999",
       "Campeonato Paulista 2000",
-      "Copa do Brasil 2001",
+      "Copa do Mundo de Clubes 2000",
     ],
     imagem: imagensDisponiveis["Vampeta"],
+    ativo: false,
   },
   {
     nome: "Dida",
@@ -910,6 +973,7 @@ export const jogadores = [
       "Copa Sul-Americana 2004",
     ],
     imagem: imagensDisponiveis["Dida"],
+    ativo: false,
   },
   {
     nome: "Casagrande",
@@ -924,6 +988,7 @@ export const jogadores = [
       "Campeonato Brasileiro 1983",
     ],
     imagem: imagensDisponiveis["Casagrande"],
+    ativo: false,
   },
   {
     nome: "Ronaldo Fenômeno",
@@ -934,6 +999,7 @@ export const jogadores = [
     nacionalidade: "Brasileiro",
     titulos: ["Copa do Brasil 2009", "Campeonato Paulista 2009"],
     imagem: imagensDisponiveis["Ronaldo Fenômeno"],
+    ativo: false,
   },
   {
     nome: "Ricardinho",
@@ -952,6 +1018,7 @@ export const jogadores = [
       "Copa Sul-Americana 2004",
     ],
     imagem: imagensDisponiveis["Ricardinho"],
+    ativo: false,
   },
   {
     nome: "Danilo",
@@ -971,6 +1038,7 @@ export const jogadores = [
       "Copa do Brasil 2019",
     ],
     imagem: imagensDisponiveis["Danilo"],
+    ativo: false,
   },
   {
     nome: "Carlos Tevez",
@@ -985,6 +1053,7 @@ export const jogadores = [
       "Copa Sul-Americana 2016",
     ],
     imagem: imagensDisponiveis["Carlos Tevez"],
+    ativo: false,
   },
   {
     nome: "Talles Magno",
@@ -997,6 +1066,7 @@ export const jogadores = [
       "Campeonato Paulista 2025",
     ],
     imagem: imagensDisponiveis["Talles Magno"],
+    ativo: true,
   },
   {
     nome: "Fagner",
@@ -1011,6 +1081,7 @@ export const jogadores = [
       "Campeonato Brasileiro 2023",
     ],
     imagem: imagensDisponiveis["Fagner"],
+    ativo: true,
   },
   {
     nome: "Roger Guedes",
@@ -1021,6 +1092,7 @@ export const jogadores = [
     nacionalidade: "Brasileiro",
     titulos: [],
     imagem: imagensDisponiveis["Roger Guedes"],
+    ativo: true,
   },
   {
     nome: "Renato Augusto",
@@ -1035,6 +1107,7 @@ export const jogadores = [
       "Campeonato Brasileiro 2015",
     ],
     imagem: imagensDisponiveis["Renato Augusto"],
+    ativo: false,
   },
   {
     nome: "Matias Rojas",
@@ -1045,6 +1118,7 @@ export const jogadores = [
     nacionalidade: "Paraguaio",
     titulos: [],
     imagem: imagensDisponiveis["Matias Rojas"],
+    ativo: true,
   },
   {
     nome: "Wesley Gassova",
@@ -1055,6 +1129,7 @@ export const jogadores = [
     nacionalidade: "Brasileiro",
     titulos: [],
     imagem: imagensDisponiveis["Wesley"],
+    ativo: true,
   },
   {
     nome: "Murillo",
@@ -1065,6 +1140,7 @@ export const jogadores = [
     nacionalidade: "Brasileiro",
     titulos: [],
     imagem: imagensDisponiveis["Murillo"],
+    ativo: true,
   },
   {
     nome: "Marquinhos",
@@ -1077,6 +1153,7 @@ export const jogadores = [
       "Copa Libertadores 2012",
     ],
     imagem: imagensDisponiveis["Marquinhos"],
+    ativo: true,
   },
   {
     nome: "Malcom",
@@ -1089,6 +1166,7 @@ export const jogadores = [
       "Campeonato Paulista 2015"
     ],
     imagem: imagensDisponiveis["Malcom"],
+    ativo: true,
   },
   {
     nome: "Willian",
@@ -1100,6 +1178,7 @@ export const jogadores = [
     titulos: [
     ],
     imagem: imagensDisponiveis["Willian"],
+    ativo: true,
   },
   {
     nome: "Fabio Santos",
@@ -1117,6 +1196,7 @@ export const jogadores = [
       "Campeonato Paulista 2013",
     ],
     imagem: imagensDisponiveis["Fabio Santos"],
+    ativo: false,
   },
   {
     nome: "Gil da Goiaba",
@@ -1131,6 +1211,7 @@ export const jogadores = [
       "Campeonato Brasileiro 2015",
     ],
     imagem: imagensDisponiveis["Gil"],
+    ativo: false,
   },
   {
     nome: "Luan",
@@ -1142,6 +1223,7 @@ export const jogadores = [
     titulos: [
     ],
     imagem: imagensDisponiveis["Luan"],
+    ativo: false,
   },
   {
     nome: "Vagner Love",
@@ -1154,67 +1236,135 @@ export const jogadores = [
       "Campeonato Paulista 2019",
     ],
     imagem: imagensDisponiveis["Vagner Love"],
+    ativo: false,
   },
-  // {
-  //   nome: "Douglas",
-  //   posicao: "Atacante",
-  //   altura: 171,
-  //   nascimento: "1984-06-11",
-  //   ano_chegada: 2015,
-  //   nacionalidade: "Brasileiro",
-  //   titulos: [
-  //     "Campeonato Paulista 2019",
-  //   ],
-  //   imagem: imagensDisponiveis["Vagner Love"],
-  // },
-  // {
-  //   nome: "Adson",
-  //   posicao: "Atacante",
-  //   altura: 171,
-  //   nascimento: "1984-06-11",
-  //   ano_chegada: 2015,
-  //   nacionalidade: "Brasileiro",
-  //   titulos: [
-  //     "Campeonato Paulista 2019",
-  //   ],
-  //   imagem: imagensDisponiveis["Vagner Love"],
-  // },
-  // {
-  //   nome: "Ricon",
-  //   posicao: "Atacante",
-  //   altura: 171,
-  //   nascimento: "1984-06-11",
-  //   ano_chegada: 2015,
-  //   nacionalidade: "Brasileiro",
-  //   titulos: [
-  //     "Campeonato Paulista 2019",
-  //   ],
-  //   imagem: imagensDisponiveis["Vagner Love"],
-  // },
-  // {
-  //   nome: "Danilo",
-  //   posicao: "Atacante",
-  //   altura: 171,
-  //   nascimento: "1984-06-11",
-  //   ano_chegada: 2015,
-  //   nacionalidade: "Brasileiro",
-  //   titulos: [
-  //     "Campeonato Paulista 2019",
-  //   ],
-  //   imagem: imagensDisponiveis["Vagner Love"],
-  // },
-  // {
-  //   nome: "Romarinho",
-  //   posicao: "Atacante",
-  //   altura: 171,
-  //   nascimento: "1984-06-11",
-  //   ano_chegada: 2015,
-  //   nacionalidade: "Brasileiro",
-  //   titulos: [
-  //     "Campeonato Paulista 2019",
-  //   ],
-  //   imagem: imagensDisponiveis["Vagner Love"],
-  // },
+  {
+    nome: "Douglas",
+    posicao: "Meia",
+    altura: 176,
+    nascimento: "1982-02-18",
+    ano_chegada: 2008,
+    nacionalidade: "Brasileiro",
+    titulos: [
+      "Campeonato Paulista 2013",
+      "Campeonato Paulista 2009",
+      "Copa do Brasil 2009",
+      "Copa Libertadores 2012",
+      "Mundial de Clubes 2012",
+      "Recopa Sudamericana 2013",
+      "Série B 2008",
+    ],
+    imagem: imagensDisponiveis["Douglas"],
+    ativo: false,
+  },
+  {
+    nome: "Adson",
+    posicao: "Atacante",
+    altura: 171,
+    nascimento: "2000-10-06",
+    ano_chegada: 2021,
+    nacionalidade: "Brasileiro",
+    titulos: [
+    ],
+    imagem: imagensDisponiveis["Adson"],
+    ativo: true,
+  },
+  {
+    nome: "Rincon",
+    posicao: "Meia",
+    altura: 185,
+    nascimento: "1966-08-14",
+    ano_chegada: 1998,
+    nacionalidade: "Colombiano",
+    titulos: [
+      "Campeonato Paulista ?",
+      "Copa Mundial de Clubes 2000",
+      "Campeonato Brasileiro 98",
+      "Campeonato Brasileiro 99",
+    ],
+     imagem: imagensDisponiveis["Rincon"],
+     ativo: false,
+   },
+  {
+    nome: "Edilson Capetinha/Capeta",
+    posicao: "Atacante",
+    altura: 168,
+    nascimento: "1971-09-17",
+    ano_chegada: 1997,
+    nacionalidade: "Brasileiro",
+    titulos: [
+      "Campeonato Paulista 99",
+      "Copa Mundial de Clubes 2000",
+      "Campeonato Brasileiro 98",
+      "Campeonato Brasileiro 99",
+    ],
+    imagem: imagensDisponiveis["Edilson"],
+    ativo: false,
+  },
+  {
+    nome: "Romarinho",
+    posicao: "Atacante",
+    altura: 176,
+    nascimento: "1990-12-12",
+    ano_chegada: 2012,
+    nacionalidade: "Brasileiro",
+    titulos: [
+      "Campeonato Paulista 2013",
+      "Copa Libertadores 2012",
+      "Copa do Mundo de Clubes 2012",
+      "Recopa Sudamericana 2013",
+    ],
+    imagem: imagensDisponiveis["Romarinho"],
+    ativo: true,
+  },
+  {
+    nome: "Jadson",
+    posicao: "Meia",
+    altura: 169,
+    nascimento: "1983-10-05",
+    ano_chegada: 2014,
+    nacionalidade: "Brasileiro",
+    titulos: [
+      "Campeonato Paulista 2019",
+      "Campeonato Paulista 2018",
+      "Campeonato Paulista 2017",
+      "Campeonato Brasileiro 2017",
+      "Campeonato Brasileiro 2015",
+    ],
+    imagem: imagensDisponiveis["Jadson"],
+    ativo: false,
+  },
+  {
+    nome: "Rodriguinho",
+    posicao: "Meia",
+    altura: 177,
+    nascimento: "1988-03-27",
+    ano_chegada: 2013,
+    nacionalidade: "Brasileiro",
+    titulos: [
+      "Campeonato Paulista 2017",
+      "Campeonato Paulista 2018",
+      "Campeonato Brasileiro 2017",
+      "Campeonato Brasileiro 2018",
+    ],
+    imagem: imagensDisponiveis["Rodriguinho"],
+    ativo: false,
+  },
+  {
+    nome: "Dentinho",
+    posicao: "Atacante",
+    altura: 176,
+    nascimento: "1989-01-19",
+    ano_chegada: 2007,
+    nacionalidade: "Brasileiro",
+    titulos: [
+      "Campeonato Paulista 2009",
+      "Série B 2008",
+      "Copa do Brasil 2009",
+    ],
+    imagem: imagensDisponiveis["Dentinho"],
+    ativo: true,
+  },
   //Quebrados
 
   {
@@ -1228,6 +1378,7 @@ export const jogadores = [
       "THE LAST DANCE"
     ],
     imagem: imagensDisponiveis["A Pistache"],
+    ativo: true,
   },
 ];
 

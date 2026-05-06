@@ -525,8 +525,8 @@ header h1 {
 
 .tabela-comparacao td.menor,
 .tabela-comparacao td.maior {
-  background: rgba(250, 175, 96, 0.2);
-  color: var(--info);
+  background: rgba(251, 191, 36, 0.2);
+  color: var(--warning);
   font-weight: 600;
 }
 
@@ -783,4 +783,17 @@ footer {
     padding: 12px;
     font-size: 1rem;
   }
+}
+.status-ativo {
+  background-color: rgba(74, 222, 128, 0.2);
+}
+.status-aposentado {
+  background-color: rgba(250, 175, 96, 0.2);
+}
+
+.situacao-ativo {
+  background-color: rgba(74, 222, 128, 0.2);
+}
+.situacao-aposentado {
+  background-color: rgba(250, 175, 96, 0.2);
 }
